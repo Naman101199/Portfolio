@@ -1,2 +1,2 @@
-# Ajinkeya-Chitrey-portfolio
+# Naman-Mehta-portfolio
 portfolio
