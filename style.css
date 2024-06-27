@@ -2960,13 +2960,13 @@ Works
 }
 
 .portfolio-item .caption .caption-content h4 {
-  color: #fcbc1d;
+  color: #ffffff;
   font-size:1.5rem;
   font-weight: bold;
 
 }
 .portfolio-item:hover .caption .caption-content h4 {
-  color: #fcbc1d;
+  color: #ffffff;
 }
 
 @media (min-width: 992px) {
@@ -3057,4 +3057,3 @@ Works
     width: 100%;
   }
 }
-
