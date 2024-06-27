@@ -691,6 +691,35 @@ xclip
 	font-size: 22px;
 	font-weight: 600;
 }
+
+/* --------------------------------
+Skills
+-------------------------------- */
+
+.skill-box {
+    height: 100%;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .skill-box h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .skill-box p {
+    flex-grow: 1;
+  }
+  
+  .ser-icon {
+    font-size: 48px;
+    color: #007bff;
+  }
+
 /*------------------------------------------------------------------
     Experience
 -------------------------------------------------------------------*/
