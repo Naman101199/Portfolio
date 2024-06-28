@@ -172,6 +172,7 @@ blockquote {
 }
 
 ul, li, ol{
+	font-size: 8px;
 	margin: 0px;
 	list-style: none;
 	padding: 0px;
