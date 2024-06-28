@@ -1035,7 +1035,13 @@ body {
 }
 
 .testimonial img {
-    max-width: 55px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.testimonial img {
+    width: 150px;
+    height: 150px;
 }
 
 .testimonial small {
