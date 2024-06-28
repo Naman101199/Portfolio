@@ -1034,14 +1034,14 @@ body {
     padding: 13px 0 0;
 }
 
-.testimonial img {
+/* .testimonial img {
     max-width: 150px;
     max-height: 150px;
 }
-
+ */
 .testimonial img {
-    width: 150px;
-    height: 150px;
+    width: 500px;
+    height: 3000px;
 }
 
 .testimonial small {
